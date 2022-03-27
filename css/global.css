@@ -59,6 +59,8 @@ h2 {
   background-color: #eee;
   border-radius: 100%;
   margin: 0 auto;
+  background: url("../image/moi.jpeg") center no-repeat;
+  background-size: cover;
 }
 h2.name {
   letter-spacing: 0;
